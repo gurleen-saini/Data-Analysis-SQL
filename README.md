@@ -52,4 +52,4 @@ The analysis was conducted through the following structured SQL approach:
 ## 📽️ Presentation Deck
 
 🎞️ View the visual summary of this project via Canva:  
-🔗 [Click here to view the Canva Presentation]()
+🔗 [Click here to view the Canva Presentation](https://www.canva.com/design/DAGswhukOjA/bcGSoU3euYzKV_tAUh2mFw/view?utm_content=DAGswhukOjA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3b68fd60bd)
